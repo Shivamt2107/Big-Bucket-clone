@@ -1,6 +1,6 @@
 # Welcome to Big-Bucket
 
-<h3>Big-Bucket (Supermarket Grocery Supplies Private Limited), a venture of Supermarket Grocery Supplies Pvt Ltd.</h3>
+<h3>Big-Bucket is a large online grocer headquartered in Bangalore, India, and currently owned by Tata Group. Its registered company name is Supermarket Grocery Supplies Pvt.</h3>
 
 # Deployed URL 👉 [Click here](https://dreamy-blini-d8b04d.netlify.app/)
 
