@@ -1,5 +1,6 @@
-# Welcome to WEESHO
-<h3>bigbasket (Supermarket Grocery Supplies Private Limited), a venture of Supermarket Grocery Supplies Pvt Ltd.</h3>
+# Welcome to Big-Bucket
+
+<h3>Big-Bucket (Supermarket Grocery Supplies Private Limited), a venture of Supermarket Grocery Supplies Pvt Ltd.</h3>
 
 # Deployed URL 👉 [Click here](https://dreamy-blini-d8b04d.netlify.app/)
 
